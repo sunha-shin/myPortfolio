@@ -1,7 +1,5 @@
 import React from 'react'
 import styled from 'styled-components';
-import List from "./List";
-import {appData} from "../data";
 import Tags from "./Tags";
 
 const WorkItem = ({item}) => {
