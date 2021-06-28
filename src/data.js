@@ -21,14 +21,15 @@ export const appData = {
         ]
     },
     visual: {
-        slogan: "Hello, World\n I'm FrontEnd Developer"
+        slogan: "Sunha Shin",
+        jobs:"Front-end Developer"
     },
     about : {
-        title:'Recent works',
+        title:'About',
         description: 'about desc'
     },
     work: {
-        title: 'Recent Works',
+        title: 'Works',
         description: 'description1',
         list: [
             {
@@ -47,13 +48,6 @@ export const appData = {
             },
             {
                 title: 'marketer',
-                description: 'description2',
-                thumbnail:'https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1504&q=80',
-                tags: ['react', 'redux', 'redux-sata', 'styled-components'],
-                url:'https://unsplash.com/'
-            },
-            {
-                title: 'unsplash',
                 description: 'description2',
                 thumbnail:'https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1504&q=80',
                 tags: ['react', 'redux', 'redux-sata', 'styled-components'],
