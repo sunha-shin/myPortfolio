@@ -16,7 +16,7 @@ const Visual = () => {
 }
 
 const Container = styled.div`
-  background: url(https://images.unsplash.com/photo-1511836536898-6d6f1b8f6948?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80) 50% / cover no-repeat;
+  background: url(https://images.unsplash.com/photo-1549082969-62ab24fa9d7d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80) 50% / cover no-repeat;
   height: 100vh;
   position: relative;
   display: flex;
